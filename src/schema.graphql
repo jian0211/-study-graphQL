@@ -1,0 +1,20 @@
+"予約可能な銀河間の特定の場所"
+type Listing {
+  id: Int!
+
+  "リスト タイトル"
+  title: String!
+
+  "可能なベットの数"
+  numOfBeds: Int
+
+  "一晩の値段"
+  costPerNight: Float
+
+  "要約のためクローズされているかどうかを示す"
+  closedForBookings: Boolean
+}
+
+type Query {
+  featuredListings: [Listing!]!
+}
