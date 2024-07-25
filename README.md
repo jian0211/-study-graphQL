@@ -1,2 +1,2 @@
-# -study-graphQL
+# Study-graphQL
 Study Apollo server and GraphQL
