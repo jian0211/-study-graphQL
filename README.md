@@ -20,9 +20,8 @@ This repo is _not regularly monitored_.
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey). You can also [join the Apollo Discord](https://discord.gg/graphos).
 
-
 ## Reference documentation
 
 For further reference, please consider the following sections:
 
-* [Official TypeScript documentation](https://www.typescriptlang.org/docs/)
+- [Official TypeScript documentation](https://www.typescriptlang.org/docs/)
